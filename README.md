@@ -6,7 +6,7 @@
 The project focuses on modern UI/UX, performance, scalability, and secure transaction handling.
 
 The UI design is inspired by a community Figma e-commerce design and implemented as a real, production-style web application.
-https://www.figma.com/design/jMVn2kaupNDGGtRCtWeAlg/Full-E-Commerce-Website-UI-UX-Design--Community-?m=auto&t=GftQqrwYXR73VKHl-1
+https://www.figma.com/design/8rfsWllit2bY5TJwenEXYY/E-COMMERCE-UI-DESIGN---FREE-TEMPLATE--Community-?t=4rvzPeoIZg2RPn4p-0
 
 ---
 
